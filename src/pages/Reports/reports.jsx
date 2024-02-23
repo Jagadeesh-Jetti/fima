@@ -1,4 +1,3 @@
-import "../Reports/reports.css";
 import React, { useState, useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { GetIncomeData, GetExpensesData } from "../../utils/actions";
