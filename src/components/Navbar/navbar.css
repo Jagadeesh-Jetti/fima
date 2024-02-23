@@ -1,0 +1,27 @@
+.navbar_page {
+    display: flex;
+    justify-content: space-between;
+    background-color: #d8d8e1;
+    /* flex-wrap: wrap; */
+    padding-left: 4rem;
+    padding-right: 4rem;
+  }
+  
+  .page_links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+  }
+  
+  .page_links h4 {
+    display: flex;
+    margin: 1rem;
+    /* flex-wrap: wrap; */
+  }
+  
+  h2,
+  h4:hover {
+    cursor: pointer;
+  }
+  
