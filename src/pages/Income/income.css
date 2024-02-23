@@ -1,0 +1,95 @@
+.global-div {
+    margin-left: 4rem;
+    margin-right: 4rem;
+  }
+  
+  .no-data-message {
+    font-size: 18px;
+    color: #888;
+    text-align: center;
+  }
+  
+  .page-heading {
+    font-size: 22px;
+    color: #333;
+  }
+  
+  .total {
+    font-size: 18px;
+    color: #1a9850;
+  }
+  
+  .filter-div {
+    margin-top: 18px;
+  }
+  
+  .filter-title {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .filter_format_div{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .income_sort_div{
+    display: flex;
+    gap: 1rem;
+  }
+
+  .filter_title{
+    font-weight: bold;
+    font-size: medium;
+  }
+
+  .checkbox {
+    margin-right: 5px;
+    transform: scale(1.2);
+  }
+  
+
+  .checkbox-label {
+    font-size: 15px;
+  }
+  
+  .category-select {
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 12px;
+  }
+  
+  .table-div {
+    margin-top: 18px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+  }
+  
+
+  /* .filter-label {
+    margin-right: 20px; 
+  } */
+  
+  .bold-text {
+    font-weight: bold;
+  }
+
+  .filters_line_div{
+    display: flex;
+    justify-content: space-between;
+  }
