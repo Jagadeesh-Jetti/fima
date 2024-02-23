@@ -1,7 +1,6 @@
 import { useDispatch, useSelector } from "react-redux";
 import { useEffect, useState } from "react";
 import { GetSavingsData } from "../../utils/actions";
-import "../Savings/savings.css";
 
 export const Savings = () => {
   const savings = useSelector((state) => state.savings);
